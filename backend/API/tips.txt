@@ -1,0 +1,43 @@
+npm init -y  
+"type"":"module" en package.json
+
+script
+
+'start':'node index.js'
+
+**modulos
+
+npm express
+npm install nodemon para reiniciar codigo "debug"
+
+"dev":"nodemon index.js"
+crear index.js
+-----------------------------
+mysql2 mas actualizado
+
+npm install mysql2
+(npm i mysql2)
+
+--------------------------------
+
+rutas
+
+crear carpeta router ()
+crear carpeta src
+src (router- db - index)
+
+---------------------------
+routes/employes
+
+se crean las rutas get-post-put
+
+para userlo en otra parte  se usa app.use(employes)
+
+para insertar en grupo se usa parentesis 
+nombre,salario values (?,?),[])
+
+
+
+
+
+
